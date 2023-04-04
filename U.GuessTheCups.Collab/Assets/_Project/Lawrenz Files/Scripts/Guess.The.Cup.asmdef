@@ -1,0 +1,14 @@
+{
+    "name": "Guess.The.Cup",
+    "rootNamespace": "ddr.GuessTheCup.All",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
